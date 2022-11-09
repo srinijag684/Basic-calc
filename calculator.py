@@ -56,5 +56,3 @@ while True:
         print("Program ended")
         break
         
-
-#doe
